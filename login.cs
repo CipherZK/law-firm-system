@@ -46,15 +46,15 @@ namespace Dip
                     to = (textBox1.Text).ToString();
                     smtp.UseDefaultCredentials = false;
                     from = "kalaubekovazh@gmail.com";
-                    pass = "onwgyfilrtqpvrql";//KalaubekovaGulZ7
-                    messagebody = $"Your code {randomcode}";//eirhgovnfsgfouxx
+                    pass = "thfthfilrtqpvrql";//
+                    messagebody = $"Your code {randomcode}";//
                     message.To.Add(to);
                     message.From = new MailAddress(from);
                     message.Body = messagebody;
                     message.Subject = "Secret Key";
                     smtp.UseDefaultCredentials = false;
                     smtp.EnableSsl = true;
-                    smtp.Port = 587;
+                    smtp.Port = 587;        
                     smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                     smtp.Credentials = new NetworkCredential(from, pass);
                     try
