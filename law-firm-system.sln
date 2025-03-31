@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "law-firm-system", "law-firm-system.csproj", "{8DBC32F6-A04D-4023-9F35-7525089B814A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DBC32F6-A04D-4023-9F35-7525089B814A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBC32F6-A04D-4023-9F35-7525089B814A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBC32F6-A04D-4023-9F35-7525089B814A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBC32F6-A04D-4023-9F35-7525089B814A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0E2FFF-2DBC-4DAC-B64D-B445F30E3F8B}
+	EndGlobalSection
+EndGlobal

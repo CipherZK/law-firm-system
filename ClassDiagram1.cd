@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dip.Pages.createSudDela" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAIAAgAACAJACwAAEKAAQCiAAEIAAANUVQAAAIBBAA=</HashCode>
+      <FileName>Pages\sudDela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Forms.buckup" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAABAAAACAAQACAMAQAAAAECAEBQAAAAA=</HashCode>
+      <FileName>Forms\buckup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Forms.calendar" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IoAAAAAAgDIAAAAAAACAAAACAAAgAAECIAAAAQAAAAA=</HashCode>
+      <FileName>Forms\calendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Forms.gmail" Collapsed="true">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Dip.Forms.gmail.MyClient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\gmail.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Delegate Name="Dip.Forms.gmail.Add" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\gmail.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AARFjKIAAGAQSRUIz0CARACyAogcoBjgAvApIetkA9A=</HashCode>
+      <FileName>Forms\gmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Forms.pdf" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mBEIQQAIxCQECEwAGAKEQJCSARAEBEQAwBAAABwgACA=</HashCode>
+      <FileName>Forms\pdf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Forms.sendMessage" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKQAACAAABAAAACAQBCCAAAAAACABAAAAQAAAAA=</HashCode>
+      <FileName>Forms\sendMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.Form1" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wgoCJABhCAIBDwBpoCBwYmCCAAABgCQBUYAgYBDADE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dip.login" Collapsed="true">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgGACAAgBAAAACAAAmCAAEiAAAAEAAAAAQEAAA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
